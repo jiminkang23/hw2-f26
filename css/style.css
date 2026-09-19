@@ -61,7 +61,7 @@ div {
     color: #C4C4C4;
 }
 
-..yellow {
+.yellow {
     background-color: #FFFF00;
     text-align: right;
     margin-left: 50px;
@@ -74,13 +74,12 @@ div {
 }
 
 .green {
-    background-color: #00D800;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
     border-right-width: 5px;
     border-top-width: 2px;
 }
-
 footer {
     background: linear-gradient(
         #000000,
